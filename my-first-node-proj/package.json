@@ -1,0 +1,11 @@
+{
+  "name": "my-first-node-proj",
+  "version": "1.0.0",
+  "description": "introduction to express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mia Nemadjilembaye",
+  "license": "ISC"
+}
